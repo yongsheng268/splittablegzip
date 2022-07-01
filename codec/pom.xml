@@ -15,7 +15,7 @@
     <jdkLevel>1.7</jdkLevel>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
-    <hadoop.version>2.3.0</hadoop.version>
+    <hadoop.version>2.7.0</hadoop.version>
   </properties>
 
   <dependencies>
